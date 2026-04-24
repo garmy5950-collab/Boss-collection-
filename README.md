@@ -188,7 +188,7 @@ function placeOrder() {
   message += "Address: " + address + "%0A";
   message += "Payment: " + payment;
 
-  window.location.href = "https://wa.me/923XXXXXXXXX?text=" + message;
+  window.location.href = "https://wa.me/92322 6814660text=" + message;
 }
 </script>
 
